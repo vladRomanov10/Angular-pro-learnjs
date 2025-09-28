@@ -1,4 +1,4 @@
-import { ChangeDetectionStrategy, Component, HostBinding } from '@angular/core';
+import {ChangeDetectionStrategy, Component, DoCheck, HostBinding} from '@angular/core';
 
 @Component({
   selector: 'app-first-table',
@@ -15,5 +15,5 @@ export class FirstTableComponent {
       this.counter += 1;
     }, 1000);
   }
-
+  
 }
