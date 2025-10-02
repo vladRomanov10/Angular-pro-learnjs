@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="300d63f8-a5ad-4f10-aab3-0a7f1b403064" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-routing/router-animations/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/04-routing/router-animations/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-routing/router-animations/src/app/animations/last.ts" beforeDir="false" afterPath="$PROJECT_DIR$/04-routing/router-animations/src/app/animations/last.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-routing/router-animations/src/app/animations/second.ts" beforeDir="false" afterPath="$PROJECT_DIR$/04-routing/router-animations/src/app/animations/second.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-routing/router-animations/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/04-routing/router-animations/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-routing/router-animations/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/04-routing/router-animations/src/app/app.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +35,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\User\\Desktop\\it-incubator\\repositories\\Angular-pro-learnjs\\02-change-detection\\03-custom-strategy\\node_modules\\typescript\\lib&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\User\\Desktop\\it-incubator\\repositories\\Angular-pro-learnjs\\03-pipes\\my-async\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -52,6 +57,9 @@
       <workItem from="1758890861852" duration="1178000" />
       <workItem from="1759039203313" duration="47000" />
       <workItem from="1759056242917" duration="2347000" />
+      <workItem from="1759151657278" duration="642000" />
+      <workItem from="1759226814258" duration="3982000" />
+      <workItem from="1759315935747" duration="4964000" />
     </task>
     <servers />
   </component>
