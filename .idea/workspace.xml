@@ -5,12 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="300d63f8-a5ad-4f10-aab3-0a7f1b403064" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/.prettierrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-routing/router-animations/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/04-routing/router-animations/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-routing/router-animations/src/app/animations/last.ts" beforeDir="false" afterPath="$PROJECT_DIR$/04-routing/router-animations/src/app/animations/last.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-routing/router-animations/src/app/animations/second.ts" beforeDir="false" afterPath="$PROJECT_DIR$/04-routing/router-animations/src/app/animations/second.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-routing/router-animations/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/04-routing/router-animations/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-routing/router-animations/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/04-routing/router-animations/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/.vscode/extensions.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/.vscode/extensions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/.vscode/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/.vscode/tasks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/host/host.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/host/host.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/host/host.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/host/host.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/host/host.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/host/host.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/host/host.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/host/host.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/admin/admin.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/admin/admin.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/admin/admin.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/admin/admin.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/admin/admin.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/admin/admin.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/admin/admin.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/admin/admin.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/admin/admin.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/admin/admin.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/carousel/carousel.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/carousel/carousel.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/carousel/carousel.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/carousel/carousel.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/carousel/carousel.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/carousel/carousel.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/carousel/carousel.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/carousel/carousel.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/carousel/carousel.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/carousel/carousel.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/home-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/home-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/home.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/home.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/home.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/home.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/home.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/home.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/home.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/top-bar/top-bar.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/top-bar/top-bar.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/top-bar/top-bar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/top-bar/top-bar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/top-bar/top-bar.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/top-bar/top-bar.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/top-bar/top-bar.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/top-bar/top-bar.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/top-bar/top-bar.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/app/pages/home/top-bar/top-bar.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/01-stand/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/01-stand/tsconfig.spec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,20 +65,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/it-incubator/repositories/Angular-pro-learnjs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\User\\Desktop\\it-incubator\\repositories\\Angular-pro-learnjs\\03-pipes\\my-async\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/it-incubator/repositories/Angular-pro-learnjs/05-dependency-injection/01-stand/node_modules/prettier",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\User\\Desktop\\it-incubator\\repositories\\Angular-pro-learnjs\\05-dependency-injection\\01-stand\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "C:\\Users\\User\\Desktop\\it-incubator\\repositories\\Angular-pro-learnjs\\03-pipes\\my-async\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,6 +103,7 @@
       <workItem from="1759151657278" duration="642000" />
       <workItem from="1759226814258" duration="3982000" />
       <workItem from="1759315935747" duration="4964000" />
+      <workItem from="1759411179545" duration="5669000" />
     </task>
     <servers />
   </component>

@@ -6,16 +6,8 @@ import { HomeComponent } from './home.component';
 import { CarouselModule } from './carousel/carousel.module';
 import { TopBarModule } from './top-bar/top-bar.module';
 
-
 @NgModule({
-  declarations: [
-    HomeComponent,
-  ],
-  imports: [
-    CommonModule,
-    HomeRoutingModule,
-    CarouselModule,
-    TopBarModule,
-  ],
+  declarations: [HomeComponent],
+  imports: [CommonModule, HomeRoutingModule, CarouselModule, TopBarModule],
 })
-export class HomeModule { }
+export class HomeModule {}
