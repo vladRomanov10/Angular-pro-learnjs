@@ -12,8 +12,6 @@ import { SecondModule } from './app/second/second.module';
 
 const platform = platformBrowserDynamic();
 
-platform.bootstrapModule(FirstModule)
-    .catch(err => console.error(err));
+platform.bootstrapModule(FirstModule).catch((err) => console.error(err));
 
-platform.bootstrapModule(SecondModule)
-    .catch(err => console.error(err));
+platform.bootstrapModule(SecondModule).catch((err) => console.error(err));

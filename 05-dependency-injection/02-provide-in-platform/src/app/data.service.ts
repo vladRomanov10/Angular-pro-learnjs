@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { BehaviorSubject } from 'rxjs';
 
 @Injectable({
-  providedIn: 'platform'
+  providedIn: 'platform',
 })
 export class DataService {
   private dataSource$ = new BehaviorSubject<number>(1);
@@ -11,8 +11,7 @@ export class DataService {
     return this.dataSource$.asObservable();
   }
 
-  public setData(data:number) {
+  public setData(data: number) {
     this.dataSource$.next(data);
   }
-
 }
