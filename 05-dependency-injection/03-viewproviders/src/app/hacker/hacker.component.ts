@@ -6,11 +6,9 @@ import { InnerLogicService } from '../carousel/inner-logic.service';
   templateUrl: './hacker.component.html',
 })
 export class HackerComponent {
-
   constructor(@Optional() innerLogicService: InnerLogicService) {
-    if(innerLogicService) {
+    if (innerLogicService) {
       innerLogicService.timer = 100;
     }
   }
-
 }

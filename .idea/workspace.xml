@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="300d63f8-a5ad-4f10-aab3-0a7f1b403064" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/03-viewproviders/src/app/carousel/carousel.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/03-viewproviders/src/app/carousel/carousel.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/03-viewproviders/src/app/carousel/carousel.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/03-viewproviders/src/app/carousel/carousel.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/03-viewproviders/src/app/carousel/inner-logic.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/03-viewproviders/src/app/carousel/inner-logic.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-dependency-injection/03-viewproviders/src/app/hacker/hacker.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/05-dependency-injection/03-viewproviders/src/app/hacker/hacker.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +67,8 @@
       <workItem from="1759649082855" duration="6866000" />
       <workItem from="1759731819795" duration="612000" />
       <workItem from="1759750488790" duration="1231000" />
+      <workItem from="1759844970055" duration="1884000" />
+      <workItem from="1759917195346" duration="5188000" />
     </task>
     <servers />
   </component>
