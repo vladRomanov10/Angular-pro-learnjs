@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="300d63f8-a5ad-4f10-aab3-0a7f1b403064" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-templates/01-export-as/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/06-templates/01-export-as/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-templates/02-get-stand/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/06-templates/02-get-stand/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-templates/02-get-stand/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/06-templates/02-get-stand/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-templates/02-get-stand/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/06-templates/02-get-stand/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-templates/02-get-stand/src/app/zoo/zoo.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/06-templates/02-get-stand/src/app/zoo/zoo.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +71,9 @@
       <workItem from="1759844970055" duration="1884000" />
       <workItem from="1759917195346" duration="5576000" />
       <workItem from="1760005630508" duration="631000" />
+      <workItem from="1760017295032" duration="5649000" />
+      <workItem from="1760078294529" duration="7498000" />
+      <workItem from="1760250871833" duration="621000" />
     </task>
     <servers />
   </component>
