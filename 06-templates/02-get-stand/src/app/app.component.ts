@@ -1,4 +1,11 @@
-import { Component, ViewChild, ViewContainerRef } from '@angular/core'
+import {
+  AfterViewInit,
+  Component,
+  ContentChild,
+  ElementRef,
+  ViewChild,
+  ViewContainerRef,
+} from '@angular/core';
 import { CatComponent } from './animals/cat/cat.component';
 
 @Component({
@@ -9,5 +16,11 @@ import { CatComponent } from './animals/cat/cat.component';
 export class AppComponent {
   title = 'contentchildren-by-service';
 
-  @ViewChild('catComponent', {read: ViewContainerRef}) catComponent: CatComponent | undefined;
+  @ContentChild('paragraph', { descendants: false }) paragraph:
+    | HTMLElement
+    | undefined;
+
+  @ViewChild(CatComponent, { static: false }) catComponent:
+    | CatComponent
+    | undefined;
 }
