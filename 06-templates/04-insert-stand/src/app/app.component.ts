@@ -1,26 +1,28 @@
-import { Component, TemplateRef, ViewChild, ViewContainerRef } from '@angular/core';
+import {
+  Component,
+  TemplateRef,
+  ViewChild,
+  ViewContainerRef,
+} from '@angular/core';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
   title = 'insert-stand';
 
-  @ViewChild('viewContainer', {static: true, read: ViewContainerRef})
+  @ViewChild('viewContainer', { static: true, read: ViewContainerRef })
   private container!: ViewContainerRef;
 
-  onClickComponent() {
-
-  }
+  onClickComponent() {}
 
   onClickTemplate(template: TemplateRef<unknown>) {
-
+    this.container.createEmbeddedView(template);
   }
 
   onClickClear() {
-
+    this.container.clear();
   }
-
 }
