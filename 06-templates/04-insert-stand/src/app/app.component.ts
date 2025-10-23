@@ -4,6 +4,8 @@ import {
   ViewChild,
   ViewContainerRef,
 } from '@angular/core';
+import { from, map, Observable } from 'rxjs';
+import { UndeclaratedComponent } from './undeclarated/undeclarated.component';
 
 @Component({
   selector: 'app-root',
@@ -16,10 +18,25 @@ export class AppComponent {
   @ViewChild('viewContainer', { static: true, read: ViewContainerRef })
   private container!: ViewContainerRef;
 
-  onClickComponent() {}
+  readonly component$ = from(
+    import('./undeclarated/undeclarated.component'),
+  ).pipe(
+    map((m) => {
+      console.log(m);
+      return m.UndeclaratedComponent;
+    }),
+  );
+
+  async onClickComponent() {
+    const { UndeclaratedComponent } = await import(
+      './undeclarated/undeclarated.component'
+    );
+
+    this.container.createComponent(UndeclaratedComponent);
+  }
 
   onClickTemplate(template: TemplateRef<unknown>) {
-    this.container.createEmbeddedView(template);
+    this.container.createEmbeddedView(template, { name: 'Vlad' });
   }
 
   onClickClear() {

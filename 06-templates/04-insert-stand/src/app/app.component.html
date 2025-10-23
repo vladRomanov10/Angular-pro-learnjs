@@ -8,6 +8,8 @@
 
 <div #viewContainer></div>
 
+<ng-container *ngComponentOutlet="component$ | async"></ng-container>
+
 <ng-template #declaratedTemplateRef>
   <h3>Its template</h3>
   <app-declarated></app-declarated>
