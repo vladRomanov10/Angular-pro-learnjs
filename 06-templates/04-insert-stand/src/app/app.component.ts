@@ -20,12 +20,7 @@ export class AppComponent {
 
   readonly component$ = from(
     import('./undeclarated/undeclarated.component'),
-  ).pipe(
-    map((m) => {
-      console.log(m);
-      return m.UndeclaratedComponent;
-    }),
-  );
+  ).pipe(map((m) => m.UndeclaratedComponent));
 
   async onClickComponent() {
     const { UndeclaratedComponent } = await import(
