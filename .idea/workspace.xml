@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="300d63f8-a5ad-4f10-aab3-0a7f1b403064" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-templates/05-ng-if-type-checking/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/06-templates/05-ng-if-type-checking/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-templates/05-ng-if-type-checking/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/06-templates/05-ng-if-type-checking/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-templates/05-ng-if-type-checking/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/06-templates/05-ng-if-type-checking/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-angular-new/01-signals/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/07-angular-new/01-signals/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-angular-new/01-signals/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/07-angular-new/01-signals/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-angular-new/01-signals/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/07-angular-new/01-signals/src/app/app.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,23 +23,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/it-incubator/repositories/Angular-pro-learnjs/05-dependency-injection/01-stand/node_modules/prettier&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\User\\Desktop\\it-incubator\\repositories\\Angular-pro-learnjs\\05-dependency-injection\\01-stand\\node_modules\\prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\User\\Desktop\\it-incubator\\repositories\\Angular-pro-learnjs\\06-templates\\03-contentchildren-by-service\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/it-incubator/repositories/Angular-pro-learnjs/05-dependency-injection/01-stand/node_modules/prettier",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\User\\Desktop\\it-incubator\\repositories\\Angular-pro-learnjs\\05-dependency-injection\\01-stand\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "C:\\Users\\User\\Desktop\\it-incubator\\repositories\\Angular-pro-learnjs\\02-change-detection\\03-custom-strategy\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,6 +77,10 @@
       <workItem from="1761057851585" duration="5385000" />
       <workItem from="1761138873769" duration="5957000" />
       <workItem from="1761226473538" duration="8506000" />
+      <workItem from="1761301342151" duration="373000" />
+      <workItem from="1761304236205" duration="3114000" />
+      <workItem from="1761478782139" duration="59000" />
+      <workItem from="1761479047789" duration="4927000" />
     </task>
     <servers />
   </component>
