@@ -2,6 +2,7 @@ import {
   ChangeDetectionStrategy,
   Component,
   computed,
+  effect,
   signal,
 } from '@angular/core';
 
@@ -25,11 +26,8 @@ export class AppComponent {
       this.count.set(5);
     }, 3000);
 
-    setInterval(() => console.log(this.count()), 1000);
-  }
-
-  get name(): string {
-    console.log('Vlad');
-    return 'Vlad';
+    effect(() => {
+      console.log(`The current count: ${this.count()}`);
+    });
   }
 }
