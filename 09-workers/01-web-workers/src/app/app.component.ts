@@ -4,7 +4,7 @@ import { findBigPrime } from './find-big-prime';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
   counter = 0;
@@ -17,6 +17,13 @@ export class AppComponent {
   }
 
   setBigPrime() {
-    this.bigPrime = findBigPrime();
+    // this.bigPrime = findBigPrime();
+    const worker = new Worker(
+      new URL('find-big-prime.worker', import.meta.url),
+    );
+
+    worker.addEventListener('message', ({ data }) => {
+      this.bigPrime = data;
+    });
   }
 }
