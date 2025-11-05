@@ -24,6 +24,9 @@ export class AppComponent {
 
     worker.addEventListener('message', ({ data }) => {
       this.bigPrime = data;
+      worker.terminate();
     });
+
+    worker.postMessage('DoIT');
   }
 }

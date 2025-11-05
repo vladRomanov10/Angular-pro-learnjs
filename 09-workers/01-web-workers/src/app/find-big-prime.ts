@@ -19,6 +19,7 @@ function test_prime(n: number) {
         return false;
       }
     }
+    debugger;
     return true;
   }
 }
